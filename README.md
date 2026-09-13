@@ -1,6 +1,6 @@
-# CAMPUS — Institute Mobile Platform
+# Campus_Connect — Institute Mobile Platform
 
-CAMPUS is an enterprise-grade mobile academic management and student engagement application built for educational institutions. It unifies institutional notices, attendance monitoring, academic schedules, club event discovery, and student gamification into a single, high-performance platform.
+Campus_Connect is an enterprise-grade mobile academic management and student engagement application built for educational institutions. It unifies institutional notices, attendance monitoring, academic schedules, club event discovery, and student gamification into a single, high-performance platform.
 
 ## Key Modules by Role
 
